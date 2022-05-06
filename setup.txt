@@ -1,0 +1,9 @@
+pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu113
+
+pip install imageio
+pip install opencv-python
+pip install git+https://github.com/tensorflow/docs
+
+pip install tensorflow
+pip install tensorflow_hub
+pip install matplotlib
